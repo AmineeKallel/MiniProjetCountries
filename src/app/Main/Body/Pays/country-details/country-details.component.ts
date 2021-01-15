@@ -9,7 +9,7 @@ import {Pays} from '../../../../interface/pays';
   styleUrls: ['./country-details.component.css']
 })
 export class CountryDetailsComponent implements OnInit {
-  @Input() country: Pays;
+  @Input() country=0;
   region = '';
   // @ts-ignore
   countries: Pays[];

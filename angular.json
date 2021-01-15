@@ -128,5 +128,8 @@
       }
     }
   },
-  "defaultProject": "Country"
+  "defaultProject": "Country",
+  "cli": {
+    "analytics": "9a9242d7-72ea-4376-b64e-7baab4543e32"
+  }
 }
